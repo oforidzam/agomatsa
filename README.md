@@ -20,7 +20,7 @@
 | 🛡️ | **Certifications:** Cisco CyberOps Associate · ISC² Certified in Cybersecurity (CC) · Google IT Support |
 | 🔍 | **Focus Areas:** Governance, Risk & Compliance (GRC), Digital Forensics, and Threat Analysis |
 | 💻 | Hands-on experience with **Nmap, Metasploit, tshark, ExifTool, and Open Policy Agent** |
-| 📬 | Open to Information Security, GRC, and Cyber Analysis opportunities |
+| 📬 | Open to Information Security, GRC, and Cyber Security Analysis opportunities |
 
 <br/>
 
