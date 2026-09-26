@@ -39,7 +39,7 @@
 ```mermaid
 flowchart TD
     Z(("🔒<br/><b>Information Security | Cyber Security | GRC <br/</b>"))
-    Z --> A["🌐<br/><b>CyberOps:</b><br/>Cisco CyberOps Path"]
+    Z --> A["🌐<br/><b>CyberOps:</b><br/>SOC Analysis"]
     Z --> B["🛡️<br/><b>Governance </b><br/>Risk & Compliance"]
     Z --> C["🎯<br/><b>System Forensics </b><br/> & Network Defense"]
     Z --> D["🚀<br/><b>Entry-Level Role: </b><br/><br>Cyber Security </br>& InfoSec Analyst"]
